@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "704241373522",
+    "project_id": "aiyoga-3fd93",
+    "storage_bucket": "aiyoga-3fd93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704241373522:android:58cce9096c72cff2712a8b",
+        "android_client_info": {
+          "package_name": "com.example.ai_yoga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704241373522-s0nvb8depedegrn439ko7rpeqqh5j1dt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ai_yoga",
+            "certificate_hash": "f4704e492d60ce97d86c72aa23eb0ea9a052a60c"
+          }
+        },
+        {
+          "client_id": "704241373522-sgpt65098badnqn8j5gl6vujt79ok3ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfS9xGMnHXOjFU5ddZsrymkHVuxaw-KvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704241373522-sgpt65098badnqn8j5gl6vujt79ok3ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
